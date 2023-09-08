@@ -2,5 +2,8 @@
 03-NFT-Tutorial/node_modules/
 03-NFT-Tutorial/.env
 03-NFT-Tutorial/artifacts/
+04-Bounty-Swisstronik-HardhatSimpleContract/node_modules
+04-Bounty-Swisstronik-HardhatSimpleContract/cache
+04-Bounty-Swisstronik-HardhatSimpleContract/artifacts
 
 
