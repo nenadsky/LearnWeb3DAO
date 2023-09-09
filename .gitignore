@@ -5,5 +5,10 @@
 04-Bounty-Swisstronik-HardhatSimpleContract/node_modules
 04-Bounty-Swisstronik-HardhatSimpleContract/cache
 04-Bounty-Swisstronik-HardhatSimpleContract/artifacts
+05-Whitelist-Dapp/node_modules
+05-Whitelist-Dapp/cache
+05-Whitelist-Dapp/artifacts
+05-Whitelist-Dapp/.env
+
 
 
