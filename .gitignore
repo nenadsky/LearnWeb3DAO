@@ -15,7 +15,10 @@
 06-OnchainDAO/artifacts
 06-OnchainDAO/frontend/.next
 06-OnchainDAO/frontend/node_modules
-06-OnchainDAO/artifacts
+07-hardhat-app/node_modules
+07-hardhat-app/artifacts
+07-hardhat-app/cache
+
 
 
 
