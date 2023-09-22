@@ -18,6 +18,19 @@
 07-hardhat-app/node_modules
 07-hardhat-app/artifacts
 07-hardhat-app/cache
+08-dex-app/artifacts
+08-dex-app/cache
+08-dex-app/node_modules
+08-dex-app/.env
+09-ENS/ens/node_modules
+10-nft-ipfs/hardhat/artifacts
+10-nft-ipfs/hardhat/cache
+10-nft-ipfs/hardhat/node_modules
+10-nft-ipfs/hardhat/.env
+10-nft-ipfs/node_modules
+10-nft-ipfs/my-app/node_modules
+
+
 
 
 
