@@ -29,6 +29,14 @@
 10-nft-ipfs/hardhat/.env
 10-nft-ipfs/node_modules
 10-nft-ipfs/my-app/node_modules
+11-ceramic-tutorial/my-app/node_modules
+12-RandomWinnerGame/graph/node_modules
+12-RandomWinnerGame/hardhat-tutorial/artifacts
+12-RandomWinnerGame/hardhat-tutorial/cache
+12-RandomWinnerGame/hardhat-tutorial/node_modules
+12-RandomWinnerGame/hardhat-tutorial/.env
+12-RandomWinnerGame/my-app/node_modules
+
 
 
 
